@@ -9,3 +9,6 @@ The simulation is an attempt to reproduce the Wright-Fisher genetic model using 
 
 
 All of them can be ploted (all pops, all freqs, freq A, freq B, pop A, pop B)
+
+
+By Leonardo Mirandola and Alexandre Duplan
